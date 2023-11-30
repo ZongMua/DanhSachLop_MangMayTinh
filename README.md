@@ -2,15 +2,9 @@
 
 ### Chưa có nhóm:
 
-> 1.  Võ Chí Công
-> 2.  Bùi Duy Hưng
-> 3.  Nguyễn Tuấn Nam
-> 4.  Phạm Văn Sơn
-> 5.  Trần Bảo Sơn
-> 6.  Hoàng Đức Tài
-> 7.  Nguyễn Hoàng Việt
+- Nguyễn Đức Huy (Bỏ)
 
-## Tổng: 41/48
+## Tổng: 47/48
 
 ### Nhóm 1
 
@@ -18,7 +12,7 @@
 | --- | -------------- | ------------ |
 | 1   | Vũ Đức Doanh   | 2200787      |
 | 2   | Phùng Việt Anh | 2201062      |
-| 2   | Lê Công Toại   | 2200759      |
+| 3   | Lê Công Toại   | 2200759      |
 
 ---
 
@@ -154,3 +148,22 @@
 | 1   | Nguyễn Hoài Nam      | 2201030      |
 | 2   | Nguyễn Đức Hùng      | 2200786      |
 | 3   | Nguyễn Như Duy Hoàng | 2201075      |
+
+---
+
+### Nhóm 16
+
+| STT | Họ và tên    | Mã sinh viên |
+| --- | ------------ | ------------ |
+| 1   | Võ Chí Công  | 2200972      |
+| 2   | Phạm Văn Sơn | 2200285      |
+| 3   | Trần Bảo Sơn | 2201099      |
+
+### Nhóm 17
+
+| STT | Họ và tên         | Mã sinh viên |
+| --- | ----------------- | ------------ |
+| 1   | Bùi Duy Hưng      | 2200412      |
+| 2   | Nguyễn Tuấn Nam   | 2200808      |
+| 3   | Hoàng Đức Tài     | 2201016      |
+| 4   | Nguyễn Hoàng Việt | 2200809      |
