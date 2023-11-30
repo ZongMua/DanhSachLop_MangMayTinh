@@ -13,7 +13,7 @@
 > 9.  Hoàng Đức Tài
 > 10. Nguyễn Hoàng Việt
 
----
+## Tổng: 38/48
 
 ### Nhóm 1
 
