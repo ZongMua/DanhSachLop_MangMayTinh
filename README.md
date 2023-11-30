@@ -151,6 +151,6 @@
 
 | STT | Họ và tên            | Mã sinh viên |
 | --- | -------------------- | ------------ |
-| 1   | Nguyễn Hoài Nam      | 2201110      |
-| 2   | Nguyễn Đức Hùng      | 2200791      |
-| 3   | Nguyễn Như Duy Hoàng | 2200360      |
+| 1   | Nguyễn Hoài Nam      | 2201030      |
+| 2   | Nguyễn Đức Hùng      | 2200786      |
+| 3   | Nguyễn Như Duy Hoàng | 2201075      |
