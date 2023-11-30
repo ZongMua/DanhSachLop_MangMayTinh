@@ -3,17 +3,14 @@
 ### Chưa có nhóm:
 
 > 1.  Võ Chí Công
-> 2.  Nguyễn Như Duy Hoàng
-> 3.  Nguyễn Đức Hùng
-> 4.  Bùi Duy Hưng
-> 5.  Nguyễn Tuấn Nam
-> 6.  Nguyễn Hoài Nam
-> 7.  Phạm Văn Sơn
-> 8.  Trần Bảo Sơn
-> 9.  Hoàng Đức Tài
-> 10. Nguyễn Hoàng Việt
+> 2.  Bùi Duy Hưng
+> 3.  Nguyễn Tuấn Nam
+> 4.  Phạm Văn Sơn
+> 5.  Trần Bảo Sơn
+> 6.  Hoàng Đức Tài
+> 7.  Nguyễn Hoàng Việt
 
-## Tổng: 38/48
+## Tổng: 41/48
 
 ### Nhóm 1
 
@@ -147,3 +144,13 @@
 | 1   | Đàm Ngọc Minh  | 2201110      |
 | 2   | Nguyễn Đức Duy | 2200791      |
 | 3   | Quàng Mạnh Duy | 2200360      |
+
+---
+
+### Nhóm 15
+
+| STT | Họ và tên            | Mã sinh viên |
+| --- | -------------------- | ------------ |
+| 1   | Nguyễn Hoài Nam      | 2201110      |
+| 2   | Nguyễn Đức Hùng      | 2200791      |
+| 3   | Nguyễn Như Duy Hoàng | 2200360      |
