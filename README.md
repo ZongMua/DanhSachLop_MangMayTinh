@@ -1,10 +1,24 @@
 # Danh sách các nhóm lớp 46CNTT2
 
-### Chưa có nhóm:
+### Danh sách chủ đề (mỗi chủ đề tối đa 2 nhóm lựa chọn)
 
-- Nguyễn Đức Huy (Bỏ)
+> 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? (nhóm 16)
+> 2. Tìm hiểu về mạng Internet và IOT?
+> 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
+> 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax?
+> 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? (nhóm 2 và nhóm 4)
+> 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain?
+> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing?
+> 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
+> 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
+> 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
+> 11. Tìm hiểu về hoạt động của HTTP và FTP?
+> 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến.
+> 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? (nhóm 7 và nhóm 15)
+> 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6?
+> 15. Sinh viên tự đề xuất.
 
-## Tổng: 47/48
+---
 
 ### Nhóm 1
 
@@ -18,10 +32,10 @@
 
 ### Nhóm 2
 
-| STT | Họ và tên   | Mã sinh viên |
-| --- | ----------- | ------------ |
-| 1   | Mùa A Giống | 2200911      |
-| 2   | Vũ Thế Công | 2200750      |
+| STT | Họ và tên   | Mã sinh viên | Nội dung                                  |
+| --- | ----------- | ------------ | ----------------------------------------- |
+| 1   | Mùa A Giống | 2200911      | Chủ đề 6.                                 |
+| 2   | Vũ Thế Công | 2200750      | Tìm hiểu về mạng máy tính và công nghệ 5G |
 
 ---
 
@@ -36,11 +50,11 @@
 
 ### Nhóm 4
 
-| STT | Họ và tên     | Mã sinh viên |
-| --- | ------------- | ------------ |
-| 1   | Bùi Văn Quang | 2200751      |
-| 2   | Thể Văn Lộc   | 2200042      |
-| 3   | Phạm Văn Sơn  | 2200285      |
+| STT | Họ và tên     | Mã sinh viên | Nội dung                                  |
+| --- | ------------- | ------------ | ----------------------------------------- |
+| 1   | Bùi Văn Quang | 2200751      | Chủ đề 6.                                 |
+| 2   | Thể Văn Lộc   | 2200042      | Tìm hiểu về mạng máy tính và công nghệ 5G |
+| 3   | Phạm Văn Sơn  | 2200285      |                                           |
 
 ---
 
@@ -66,10 +80,10 @@
 
 ### Nhóm 7
 
-| STT | Họ và tên             | Mã sinh viên |
-| --- | --------------------- | ------------ |
-| 1   | Chẻo Tả Mẩy           | 2200514      |
-| 2   | Nguyễn Thị Thanh Xuân | 2201241      |
+| STT | Họ và tên             | Mã sinh viên | Nội dung                                                     |
+| --- | --------------------- | ------------ | ------------------------------------------------------------ |
+| 1   | Chẻo Tả Mẩy           | 2200514      | Chủ đề 14.                                                   |
+| 2   | Nguyễn Thị Thanh Xuân | 2201241      | Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay ? |
 
 ---
 
@@ -161,9 +175,14 @@
 
 ### Nhóm 17
 
+| STT | Họ và tên     | Mã sinh viên |
+| --- | ------------- | ------------ |
+| 1   | Bùi Duy Hưng  | 2200412      |
+| 2   | Hoàng Đức Tài | 2201016      |
+
+### Nhóm 18
+
 | STT | Họ và tên         | Mã sinh viên |
 | --- | ----------------- | ------------ |
-| 1   | Bùi Duy Hưng      | 2200412      |
-| 2   | Nguyễn Tuấn Nam   | 2200808      |
-| 3   | Hoàng Đức Tài     | 2201016      |
-| 4   | Nguyễn Hoàng Việt | 2200809      |
+| 1   | Nguyễn Tuấn Nam   | 2200808      |
+| 2   | Nguyễn Hoàng Việt | 2200809      |
