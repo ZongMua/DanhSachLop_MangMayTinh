@@ -2,11 +2,11 @@
 
 ### Danh sách chủ đề (mỗi chủ đề tối đa 2 nhóm lựa chọn)
 
-> 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? <u>(nhóm 16)</u>
+> 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? <ins>(nhóm 16)</ins>
 > 2. Tìm hiểu về mạng Internet và IOT?
 > 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax?
-> 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <u>(nhóm 2 và nhóm 4)</u>
+> 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain?
 > 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing?
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
@@ -14,7 +14,7 @@
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
 > 11. Tìm hiểu về hoạt động của HTTP và FTP?
 > 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến.
-> 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <u>(nhóm 7 và nhóm 15)</u>
+> 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <ins>(nhóm 7 và nhóm 15)</ins>
 > 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6?
 > 15. Sinh viên tự đề xuất.
 
@@ -34,7 +34,7 @@
 
 | STT | Họ và tên   | Mã sinh viên | Nội dung                                  |
 | --- | ----------- | ------------ | ----------------------------------------- |
-| 1   | Mùa A Giống | 2200911      | Chủ đề 6.                                 |
+| 1   | Mùa A Giống | 2200911      | Chủ đề 5.                                 |
 | 2   | Vũ Thế Công | 2200750      | Tìm hiểu về mạng máy tính và công nghệ 5G |
 
 ---
@@ -52,7 +52,7 @@
 
 | STT | Họ và tên     | Mã sinh viên | Nội dung                                  |
 | --- | ------------- | ------------ | ----------------------------------------- |
-| 1   | Bùi Văn Quang | 2200751      | Chủ đề 6.                                 |
+| 1   | Bùi Văn Quang | 2200751      | Chủ đề 5.                                 |
 | 2   | Thể Văn Lộc   | 2200042      | Tìm hiểu về mạng máy tính và công nghệ 5G |
 | 3   | Phạm Văn Sơn  | 2200285      |                                           |
 
