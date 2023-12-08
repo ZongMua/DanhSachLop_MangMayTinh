@@ -16,7 +16,7 @@
 > 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến.
 > 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <ins>(nhóm 7 và nhóm 15)</ins>
 > 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6? <ins>(nhóm 8)</ins>
-> 15. Sinh viên tự đề xuất.
+> 15. Sinh viên tự đề xuất (nhóm 11)
 
 ---
 
@@ -118,11 +118,11 @@
 
 ### Nhóm 11
 
-| STT | Họ và tên             | Mã sinh viên |
-| --- | --------------------- | ------------ |
-| 1   | Đặng Thị Kim Anh      | 2201021      |
-| 2   | Nguyễn Thị Kim Oanh   | 2201206      |
-| 3   | Quách Thị Thanh Hường | 2200947      |
+| STT | Họ và tên             | Mã sinh viên | Nội dung                                                                                                                                |
+| --- | --------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Đặng Thị Kim Anh      | 2201021      | Chủ đề tự chọn:                                                                                                                         |
+| 2   | Nguyễn Thị Kim Oanh   | 2201206      | Tìm hiểu và giới thiệu cách sử dụng dịch vụ Download và Upload thông tin trên các website trên Internet và FTP (File Transfer Protocol) |
+| 3   | Quách Thị Thanh Hường | 2200947      |                                                                                                                                         |
 
 ---
 
