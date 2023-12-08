@@ -7,12 +7,12 @@
 > 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? <ins>(nhóm 17)</ins>
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
-> 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain? <ins>(nhóm 6 và nhóm 9)</ins>
-> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10 và nhóm 5)</ins>
+> 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain? <ins>(nhóm 9)</ins>
+> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10)</ins>
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
 > 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
-> 11. Tìm hiểu về hoạt động của HTTP và FTP?
+> 11. Tìm hiểu về hoạt động của HTTP và FTP? <ins>(nhóm 6 và nhóm 5)</ins>
 > 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến.
 > 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <ins>(nhóm 7 và nhóm 15)</ins>
 > 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6? <ins>(nhóm 8)</ins>
@@ -60,21 +60,21 @@
 
 ### Nhóm 5
 
-| STT | Họ và tên         | Mã sinh viên | Nội dung                                                |
-| --- | ----------------- | ------------ | ------------------------------------------------------- |
-| 1   | Phùng Ngọc Phương | 2201019      | Chủ đề 7.                                               |
-| 2   | Hoàng Gia Huy     | 2200767      | Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? |
-| 3   | Lê Văn Dương      | 2200953      |                                                         |
+| STT | Họ và tên         | Mã sinh viên | Nội dung                               |
+| --- | ----------------- | ------------ | -------------------------------------- |
+| 1   | Phùng Ngọc Phương | 2201019      | Chủ đề 11.                             |
+| 2   | Hoàng Gia Huy     | 2200767      | Tìm hiểu về hoạt động của HTTP và FTP? |
+| 3   | Lê Văn Dương      | 2200953      |                                        |
 
 ---
 
 ### Nhóm 6
 
-| STT | Họ và tên      | Mã sinh viên | Nội dung                                           |
-| --- | -------------- | ------------ | -------------------------------------------------- |
-| 1   | Dì Minh Khánh  | 2200315      | Chủ đề 6.                                          |
-| 2   | Lầu A Xa       | 2200502      | Tìm hiểu về mạng máy tính và công nghệ Blockchain? |
-| 3   | Nguyễn Duy Phi | 2200778      |                                                    |
+| STT | Họ và tên      | Mã sinh viên | Nội dung                               |
+| --- | -------------- | ------------ | -------------------------------------- |
+| 1   | Dì Minh Khánh  | 2200315      | Chủ đề 11.                             |
+| 2   | Lầu A Xa       | 2200502      | Tìm hiểu về hoạt động của HTTP và FTP? |
+| 3   | Nguyễn Duy Phi | 2200778      |                                        |
 
 ---
 
