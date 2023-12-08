@@ -5,7 +5,7 @@
 > 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? <ins>(nhóm 16)</ins>
 > 2. Tìm hiểu về mạng Internet và IOT?
 > 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
-> 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax?
+> 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? (nhóm 17)
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain?
 > 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10)</ins>
@@ -175,10 +175,10 @@
 
 ### Nhóm 17
 
-| STT | Họ và tên     | Mã sinh viên |
-| --- | ------------- | ------------ |
-| 1   | Bùi Duy Hưng  | 2200412      |
-| 2   | Hoàng Đức Tài | 2201016      |
+| STT | Họ và tên     | Mã sinh viên | Nội dung                                                                           |
+| --- | ------------- | ------------ | ---------------------------------------------------------------------------------- |
+| 1   | Bùi Duy Hưng  | 2200412      | Chủ đề 4.                                                                          |
+| 2   | Hoàng Đức Tài | 2201016      | Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? |
 
 ### Nhóm 18
 
