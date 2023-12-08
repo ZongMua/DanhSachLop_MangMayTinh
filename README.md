@@ -7,7 +7,7 @@
 > 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? <ins>(nhóm 17)</ins>
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
-> 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain?
+> 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain? <ins>(Nhóm 6)</ins>
 > 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10)</ins>
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
 > 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
@@ -70,11 +70,11 @@
 
 ### Nhóm 6
 
-| STT | Họ và tên      | Mã sinh viên |
-| --- | -------------- | ------------ |
-| 1   | Dì Minh Khánh  | 2200315      |
-| 2   | Lầu A Xa       | 2200502      |
-| 3   | Nguyễn Duy Phi | 2200778      |
+| STT | Họ và tên      | Mã sinh viên | Nội dung                                           |
+| --- | -------------- | ------------ | -------------------------------------------------- |
+| 1   | Dì Minh Khánh  | 2200315      | Chủ đề 6.                                          |
+| 2   | Lầu A Xa       | 2200502      | Tìm hiểu về mạng máy tính và công nghệ Blockchain? |
+| 3   | Nguyễn Duy Phi | 2200778      |                                                    |
 
 ---
 
