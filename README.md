@@ -3,7 +3,7 @@
 ### Danh sách chủ đề (mỗi chủ đề tối đa 2 nhóm lựa chọn)
 
 > 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? <ins>(nhóm 16)</ins>
-> 2. Tìm hiểu về mạng Internet và IOT? <ins>(nhóm 1)</ins>
+> 2. Tìm hiểu về mạng Internet và IOT? <ins>(nhóm 1 và nhóm 18)</ins>
 > 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? <ins>(nhóm 17)</ins>
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
@@ -182,7 +182,7 @@
 
 ### Nhóm 18
 
-| STT | Họ và tên         | Mã sinh viên |
-| --- | ----------------- | ------------ |
-| 1   | Nguyễn Tuấn Nam   | 2200808      |
-| 2   | Nguyễn Hoàng Việt | 2200809      |
+| STT | Họ và tên         | Mã sinh viên | Nội dung                          |
+| --- | ----------------- | ------------ | --------------------------------- |
+| 1   | Nguyễn Tuấn Nam   | 2200808      | Chủ đề 2.                         |
+| 2   | Nguyễn Hoàng Việt | 2200809      | Tìm hiểu về mạng Internet và IOT? |
