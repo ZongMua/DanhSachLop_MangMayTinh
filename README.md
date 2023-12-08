@@ -8,7 +8,7 @@
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax?
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain?
-> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing?
+> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10)</ins>
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
 > 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
@@ -108,11 +108,11 @@
 
 ### Nhóm 10
 
-| STT | Họ và tên            | Mã sinh viên |
-| --- | -------------------- | ------------ |
-| 1   | Nguyễn Quí Cường     | 2200030      |
-| 2   | Lường Duy Hoàn       | 2200821      |
-| 3   | Đinh Nguyễn Hoài Nam | 2201209      |
+| STT | Họ và tên            | Mã sinh viên | Nội dung                                                |
+| --- | -------------------- | ------------ | ------------------------------------------------------- |
+| 1   | Nguyễn Quí Cường     | 2200030      | Chủ đề 7.                                               |
+| 2   | Lường Duy Hoàn       | 2200821      | Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? |
+| 3   | Đinh Nguyễn Hoài Nam | 2201209      |                                                         |
 
 ---
 
