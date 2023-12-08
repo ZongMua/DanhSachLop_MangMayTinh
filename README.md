@@ -8,7 +8,7 @@
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? <ins>(nhóm 17)</ins>
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain? <ins>(nhóm 6 và nhóm 9)</ins>
-> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10)</ins>
+> 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10 và nhóm 5)</ins>
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
 > 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
@@ -60,11 +60,11 @@
 
 ### Nhóm 5
 
-| STT | Họ và tên         | Mã sinh viên |
-| --- | ----------------- | ------------ |
-| 1   | Phùng Ngọc Phương | 2201019      |
-| 2   | Hoàng Gia Huy     | 2200767      |
-| 3   | Lê Văn Dương      | 2200953      |
+| STT | Họ và tên         | Mã sinh viên | Nội dung                                                |
+| --- | ----------------- | ------------ | ------------------------------------------------------- |
+| 1   | Phùng Ngọc Phương | 2201019      | Chủ đề 7.                                               |
+| 2   | Hoàng Gia Huy     | 2200767      | Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? |
+| 3   | Lê Văn Dương      | 2200953      |                                                         |
 
 ---
 
@@ -103,7 +103,6 @@
 | --- | -------------- | ------------ | -------------------------------------------------- |
 | 1   | Dương Lệ Quỳnh | 2200035      | Chủ đề 6.                                          |
 | 2   | Đỗ Hồng Vân    | 2200794      | Tìm hiểu về mạng máy tính và công nghệ Blockchain? |
-|  |
 
 ---
 
