@@ -10,7 +10,7 @@
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain? <ins>(nhóm 9)</ins>
 > 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing? <ins>(nhóm 10)</ins>
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
-> 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
+> 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính. <ins>(nhóm 3)</ins>
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
 > 11. Tìm hiểu về hoạt động của HTTP và FTP? <ins>(nhóm 6 và nhóm 5)</ins>
 > 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến. <ins>(nhóm 14)</ins>
@@ -41,10 +41,10 @@
 
 ### Nhóm 3
 
-| STT | Họ và tên         | Mã sinh viên |
-| --- | ----------------- | ------------ |
-| 1   | Nguyễn Thanh Thảo | 2201172      |
-| 2   | Chu Mai Huệ       | 2200748      |
+| STT | Họ và tên         | Mã sinh viên | Nội dung                                                                                  |
+| --- | ----------------- | ------------ | ----------------------------------------------------------------------------------------- |
+| 1   | Nguyễn Thanh Thảo | 2201172      | Chủ đề 9.                                                                                 |
+| 2   | Chu Mai Huệ       | 2200748      | Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính. |
 
 ---
 
