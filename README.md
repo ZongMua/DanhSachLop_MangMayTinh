@@ -13,7 +13,7 @@
 > 9. Tìm hiểu về giao thức IP, và giao thức IPv6? Các phương pháp gán địa chỉ IP cho máy tính.
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
 > 11. Tìm hiểu về hoạt động của HTTP và FTP? <ins>(nhóm 6 và nhóm 5)</ins>
-> 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến.
+> 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến. <ins>(nhóm 14)</ins>
 > 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <ins>(nhóm 7 và nhóm 15)</ins>
 > 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6? <ins>(nhóm 8)</ins>
 > 15. Sinh viên tự đề xuất (nhóm 11)
@@ -148,11 +148,11 @@
 
 ### Nhóm 14
 
-| STT | Họ và tên      | Mã sinh viên |
-| --- | -------------- | ------------ |
-| 1   | Đàm Ngọc Minh  | 2201110      |
-| 2   | Nguyễn Đức Duy | 2200791      |
-| 3   | Quàng Mạnh Duy | 2200360      |
+| STT | Họ và tên      | Mã sinh viên | Nội dung                                                                                                                             |
+| --- | -------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Đàm Ngọc Minh  | 2201110      | Chủ đề 12.                                                                                                                           |
+| 2   | Nguyễn Đức Duy | 2200791      | Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến. |
+| 3   | Quàng Mạnh Duy | 2200360      |                                                                                                                                      |
 
 ---
 
