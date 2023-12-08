@@ -2,11 +2,11 @@
 
 ### Danh sách chủ đề (mỗi chủ đề tối đa 2 nhóm lựa chọn)
 
-> 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? (nhóm 16)
+> 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? <u>(nhóm 16)</u>
 > 2. Tìm hiểu về mạng Internet và IOT?
 > 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax?
-> 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? (nhóm 2 và nhóm 4)
+> 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <u>(nhóm 2 và nhóm 4)</u>
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain?
 > 7. Tìm hiểu về mạng máy tính và công nghệ Cloud Computing?
 > 8. Tìm hiểu về cách sử dụng các công cụ phân tích gói tin, bắt gói tin và đo lưu lượng mạng máy tính (phần mềm mô phỏng).
@@ -14,7 +14,7 @@
 > 10. Tìm hiểu về giao thức kiểm soát và điều khiển lỗi trong TCP/IP? Mô phỏng quá trình điều khiển lỗi trong TCP/IP.
 > 11. Tìm hiểu về hoạt động của HTTP và FTP?
 > 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến.
-> 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? (nhóm 7 và nhóm 15)
+> 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <u>(nhóm 7 và nhóm 15)</u>
 > 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6?
 > 15. Sinh viên tự đề xuất.
 
@@ -82,7 +82,7 @@
 
 | STT | Họ và tên             | Mã sinh viên | Nội dung                                                     |
 | --- | --------------------- | ------------ | ------------------------------------------------------------ |
-| 1   | Chẻo Tả Mẩy           | 2200514      | Chủ đề 14.                                                   |
+| 1   | Chẻo Tả Mẩy           | 2200514      | Chủ đề 13.                                                   |
 | 2   | Nguyễn Thị Thanh Xuân | 2201241      | Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay ? |
 
 ---
@@ -158,20 +158,20 @@
 
 ### Nhóm 15
 
-| STT | Họ và tên            | Mã sinh viên |
-| --- | -------------------- | ------------ |
-| 1   | Nguyễn Hoài Nam      | 2201030      |
-| 2   | Nguyễn Đức Hùng      | 2200786      |
-| 3   | Nguyễn Như Duy Hoàng | 2201075      |
+| STT | Họ và tên            | Mã sinh viên | Nội dung                                                     |
+| --- | -------------------- | ------------ | ------------------------------------------------------------ |
+| 1   | Nguyễn Hoài Nam      | 2201030      | Chủ đề 13.                                                   |
+| 2   | Nguyễn Đức Hùng      | 2200786      | Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay ? |
+| 3   | Nguyễn Như Duy Hoàng | 2201075      |                                                              |
 
 ---
 
 ### Nhóm 16
 
-| STT | Họ và tên    | Mã sinh viên |
-| --- | ------------ | ------------ |
-| 1   | Võ Chí Công  | 2200972      |
-| 2   | Trần Bảo Sơn | 2201099      |
+| STT | Họ và tên    | Mã sinh viên | Nội dung                                                      |
+| --- | ------------ | ------------ | ------------------------------------------------------------- |
+| 1   | Võ Chí Công  | 2200972      | Chủ đề 1.                                                     |
+| 2   | Trần Bảo Sơn | 2201099      | Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? |
 
 ### Nhóm 17
 
