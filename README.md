@@ -15,7 +15,7 @@
 > 11. Tìm hiểu về hoạt động của HTTP và FTP? <ins>(nhóm 6 và nhóm 5)</ins>
 > 12. Tìm hiểu về bộ Định tuyến, thuật toán định tuyến và các giao thức định tuyến? Mô phỏng về quá trình hoạt động của một bộ định tuyến. <ins>(nhóm 14)</ins>
 > 13. Tìm hiểu về an ninh mạng và các công nghệ bảo mật hiện nay? <ins>(nhóm 7 và nhóm 15)</ins>
-> 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6? <ins>(nhóm 8)</ins>
+> 14. Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6? <ins>(nhóm 8 và nhóm 13)</ins>
 > 15. Sinh viên tự đề xuất (nhóm 11)
 
 ---
@@ -138,11 +138,11 @@
 
 ### Nhóm 13
 
-| STT | Họ và tên       | Mã sinh viên |
-| --- | --------------- | ------------ |
-| 1   | Lường Duy Khánh | 2200780      |
-| 2   | Khuất Duy Mạnh  | 2200757      |
-| 3   | Trương Quốc Hữu | 2200781      |
+| STT | Họ và tên       | Mã sinh viên | Nội dung                                                                              |
+| --- | --------------- | ------------ | ------------------------------------------------------------------------------------- |
+| 1   | Lường Duy Khánh | 2200780      | Chủ đề 14.                                                                            |
+| 2   | Khuất Duy Mạnh  | 2200757      | Tìm hiểu về bảo mật mạng máy tính và giao thức bảo mật đối với mạng không dây Wifi 6? |
+| 3   | Trương Quốc Hữu | 2200781      |                                                                                       |
 
 #
 
