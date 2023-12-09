@@ -4,7 +4,7 @@
 
 > 1. Tìm hiểu về công nghệ Ethernet, Fast Ethernet, Giga Ethernet? <ins>(nhóm 16)</ins>
 > 2. Tìm hiểu về mạng Internet và IOT? <ins>(nhóm 1 và nhóm 18)</ins>
-> 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…).
+> 3. Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…). <ins>(nhóm 12)</ins>
 > 4. Tìm hiểu về công nghệ Mạng không dây? Mạng Wifi và Wifi 6 với chuẩn IEEE 802.11ax? <ins>(nhóm 17)</ins>
 > 5. Tìm hiểu về mạng máy tính và công nghệ mạng 5G? <ins>(nhóm 2 và nhóm 4)</ins>
 > 6. Tìm hiểu về mạng máy tính và công nghệ Blockchain? <ins>(nhóm 9)</ins>
@@ -128,11 +128,11 @@
 
 ### Nhóm 12
 
-| STT | Họ và tên     | Mã sinh viên |
-| --- | ------------- | ------------ |
-| 1   | Tráng A Dếch  | 2201104      |
-| 2   | Lừu Văn Thành | 2200038      |
-| 3   | Tao Văn Lâm   | 2200964      |
+| STT | Họ và tên     | Mã sinh viên | Nội dung                                                                                                                         |
+| --- | ------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Tráng A Dếch  | 2201104      | Chủ đề tự chọn:                                                                                                                  |
+| 2   | Lừu Văn Thành | 2200038      | Tìm hiểu về mạng LAN, WAN và cách sử dụng các công cụ mô phỏng quá trình hoạt động (phần mềm mô phỏng như Network Simulation,…). |
+| 3   | Tao Văn Lâm   | 2200964      |                                                                                                                                  |
 
 ---
 
